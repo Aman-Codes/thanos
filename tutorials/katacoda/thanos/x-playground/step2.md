@@ -180,5 +180,5 @@ Check 5m downsampling vs raw data.
 
 ## Feel free to play around, more components will be added in future (:
 
-<img src="https://i.imgflip.com/4mw3l5.jpg" title="yoda"/>
+<img src="https://i.imgflip.com/4mw3l5.jpg" title="yoda" alt="The success I smell"/>
 

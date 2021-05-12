@@ -2,7 +2,7 @@
 
 Uff done.
 
-<img src="https://i.imgflip.com/4mw3l5.jpg" title="yoda"/>
+<img src="https://i.imgflip.com/4mw3l5.jpg" title="yoda" alt="The success I smell"/>
 
 ### Cleanup if you ran locally
 
