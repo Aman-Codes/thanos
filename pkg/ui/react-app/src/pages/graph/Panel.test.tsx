@@ -41,6 +41,10 @@ const defaultProps = {
   },
   stores: [],
   enableAutocomplete: true,
+  useExperimentalEditor: true,
+  enableHighlighting: true,
+  enableLinter: true,
+  defaultStep: '1s',
 };
 
 describe('Panel', () => {
